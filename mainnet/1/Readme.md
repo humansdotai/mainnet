@@ -8,7 +8,7 @@
 
 ⚠️ Check the `genesis.json` hash before continuing `8844776b5ca0179da5d2044a05290630e0a57827ecb48e46291c36de45a8c4fb  genesis.json`
 
-Thank you for becoming a genesis validator on Humans! This guide will provide instructions on setting up a node, submitting a gentx, and other tasks needed to participate in the launch of the Humans Friction incentivized testnet.
+Thank you for becoming a genesis validator on Humans! This guide will provide instructions on setting up a node, submitting a gentx, and other tasks needed to participate in the launch of the Humans mainnet.
 
 A `gentx` does three things:
 
