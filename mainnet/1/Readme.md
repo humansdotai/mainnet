@@ -6,7 +6,7 @@
 * [Installation Instructions](../../Install.md)
 * [Node repository](https://github.com/humansdotai/humans/)
 
-⚠️ Check the `genesis.json` hash before continuing `8844776b5ca0179da5d2044a05290630e0a57827ecb48e46291c36de45a8c4fb  genesis.json`
+⚠️ Check the `genesis.json` hash before continuing `bd00d57e521067985828acac576589484db6ccd339b114e44db5d33b65d7f472  genesis.json`
 
 Thank you for becoming a genesis validator on Humans! This guide will provide instructions on setting up a node, submitting a gentx, and other tasks needed to participate in the launch of the Humans mainnet.
 
