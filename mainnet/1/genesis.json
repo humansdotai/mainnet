@@ -30,108 +30,7 @@
         "sig_verify_cost_ed25519": "590",
         "sig_verify_cost_secp256k1": "1000"
       },
-      "accounts": [
-        {
-          "@type": "/ethermint.types.v1.EthAccount",
-          "base_account": {
-            "address": "human12pgel2al6pc79r20hw3tpfse2d9xflgzqjrh5h",
-            "pub_key": null,
-            "account_number": "0",
-            "sequence": "0"
-          },
-          "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
-        },
-        {
-          "@type": "/ethermint.types.v1.EthAccount",
-          "base_account": {
-            "address": "human1deeysr7df80zzylw3rwvt7lfnjk8zwvtfq94dr",
-            "pub_key": null,
-            "account_number": "0",
-            "sequence": "0"
-          },
-          "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
-        },
-        {
-          "@type": "/ethermint.types.v1.EthAccount",
-          "base_account": {
-            "address": "human1rztgjjtwhxwj8zjt3sm6w06r44emnphx7rlxdc",
-            "pub_key": null,
-            "account_number": "0",
-            "sequence": "0"
-          },
-          "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
-        },
-        {
-          "@type": "/ethermint.types.v1.EthAccount",
-          "base_account": {
-            "address": "human1v3yth4rgkrhxcfemx0rjykggtkxs85an70j956",
-            "pub_key": null,
-            "account_number": "0",
-            "sequence": "0"
-          },
-          "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
-        },
-        {
-          "@type": "/ethermint.types.v1.EthAccount",
-          "base_account": {
-            "address": "human13pp4wph5ul20qr6kgpffkmqgz3yw8uyww0c95e",
-            "pub_key": null,
-            "account_number": "0",
-            "sequence": "0"
-          },
-          "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
-        },
-        {
-          "@type": "/ethermint.types.v1.EthAccount",
-          "base_account": {
-            "address": "human19pmtyjqtznj4j259uce3mq5d6s08rr4p5n252q",
-            "pub_key": null,
-            "account_number": "0",
-            "sequence": "0"
-          },
-          "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
-        },
-        {
-          "@type": "/ethermint.types.v1.EthAccount",
-          "base_account": {
-            "address": "human1ama3qzlz3uprcmyxlqgt2v90jkztv8w37x333g",
-            "pub_key": null,
-            "account_number": "0",
-            "sequence": "0"
-          },
-          "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
-        },
-        {
-          "@type": "/ethermint.types.v1.EthAccount",
-          "base_account": {
-            "address": "human18yu82h20vtm6rkumk29qvldu3saj2espheunaa",
-            "pub_key": null,
-            "account_number": "0",
-            "sequence": "0"
-          },
-          "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
-        },
-        {
-          "@type": "/ethermint.types.v1.EthAccount",
-          "base_account": {
-            "address": "human1x8zfw8s9tkyrcweakyttuk6w7q3y437drcts7g",
-            "pub_key": null,
-            "account_number": "0",
-            "sequence": "0"
-          },
-          "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
-        },
-        {
-          "@type": "/ethermint.types.v1.EthAccount",
-          "base_account": {
-            "address": "human1670m74gh7m0fe7vkyv7h4ke2dduu6gdn75kvsa",
-            "pub_key": null,
-            "account_number": "0",
-            "sequence": "0"
-          },
-          "code_hash": "0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470"
-        }
-      ]
+      "accounts": []
     },
     "authz": {
       "authorization": []
@@ -141,104 +40,8 @@
         "send_enabled": [],
         "default_send_enabled": true
       },
-      "balances": [
-        {
-          "address": "human18yu82h20vtm6rkumk29qvldu3saj2espheunaa",
-          "coins": [
-            {
-              "denom": "aheart",
-              "amount": "780000000000000000000000000"
-            }
-          ]
-        },
-        {
-          "address": "human1ama3qzlz3uprcmyxlqgt2v90jkztv8w37x333g",
-          "coins": [
-            {
-              "denom": "aheart",
-              "amount": "780000000000000000000000000"
-            }
-          ]
-        },
-        {
-          "address": "human1x8zfw8s9tkyrcweakyttuk6w7q3y437drcts7g",
-          "coins": [
-            {
-              "denom": "aheart",
-              "amount": "1560000000000000000000000000"
-            }
-          ]
-        },
-        {
-          "address": "human1670m74gh7m0fe7vkyv7h4ke2dduu6gdn75kvsa",
-          "coins": [
-            {
-              "denom": "aheart",
-              "amount": "78000000000000000000000000"
-            }
-          ]
-        },
-        {
-          "address": "human12pgel2al6pc79r20hw3tpfse2d9xflgzqjrh5h",
-          "coins": [
-            {
-              "denom": "aheart",
-              "amount": "233999950000000000000000000"
-            }
-          ]
-        },
-        {
-          "address": "human19pmtyjqtznj4j259uce3mq5d6s08rr4p5n252q",
-          "coins": [
-            {
-              "denom": "aheart",
-              "amount": "468000000000000000000000000"
-            }
-          ]
-        },
-        {
-          "address": "human13pp4wph5ul20qr6kgpffkmqgz3yw8uyww0c95e",
-          "coins": [
-            {
-              "denom": "aheart",
-              "amount": "390000000000000000000000000"
-            }
-          ]
-        },
-        {
-          "address": "human1v3yth4rgkrhxcfemx0rjykggtkxs85an70j956",
-          "coins": [
-            {
-              "denom": "aheart",
-              "amount": "390000000000000000000000000"
-            }
-          ]
-        },
-        {
-          "address": "human1rztgjjtwhxwj8zjt3sm6w06r44emnphx7rlxdc",
-          "coins": [
-            {
-              "denom": "aheart",
-              "amount": "390000000000000000000000000"
-            }
-          ]
-        },
-        {
-          "address": "human1deeysr7df80zzylw3rwvt7lfnjk8zwvtfq94dr",
-          "coins": [
-            {
-              "denom": "aheart",
-              "amount": "780000000000000000000000000"
-            }
-          ]
-        }
-      ],
-      "supply": [
-        {
-          "denom": "aheart",
-          "amount": "5849999950000000000000000000"
-        }
-      ],
+      "balances": [],
+      "supply": [],
       "denom_metadata": []
     },
     "capability": {
@@ -309,12 +112,12 @@
     },
     "feemarket": {
       "params": {
-        "no_base_fee": true,
+        "no_base_fee": false,
         "base_fee_change_denominator": 8,
         "elasticity_multiplier": 2,
         "enable_height": "0",
         "base_fee": "1000000000",
-        "min_gas_price": "0.000000000000000000",
+        "min_gas_price": "20000000000.000000000000000000",
         "min_gas_multiplier": "0.500000000000000000"
       },
       "block_gas": "0"
@@ -384,7 +187,7 @@
         "annual_provisions": "0.000000000000000000"
       },
       "params": {
-        "mint_denom": "aheart",
+        "mint_denom": "stake",
         "inflation_rate_change": "0.000000000000000000",
         "inflation_max": "0.000000000000000000",
         "inflation_min": "0.000000000000000000",
@@ -396,7 +199,7 @@
     "slashing": {
       "params": {
         "signed_blocks_window": "5000",
-        "min_signed_per_window": "0.50000000000000000",
+        "min_signed_per_window": "0.050000000000000000",
         "downtime_jail_duration": "600s",
         "slash_fraction_double_sign": "0.050000000000000000",
         "slash_fraction_downtime": "0.000000000000000000"
