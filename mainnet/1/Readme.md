@@ -112,7 +112,7 @@ These instructions are written targeting an Ubuntu 20.04 system.  Relevant chang
     humansd validate-genesis
     ```
 
-8 . Create Pull Request to the repository ([humansdotai/mainnets](https://github.com/humansdotai/mainnets)) with the file  `mainnet/1/gentxs/<your validator moniker>.json`. In order to be a valid submission, you need the `.json` file extension and no whitespace or special characters in your filename.
+8 . Create Pull Request to the repository ([humansdotai/mainnets](https://github.com/humansdotai/mainnets)) with the file  `mainnet/1/gentx/<your validator moniker>.json`. In order to be a valid submission, you need the `.json` file extension and no whitespace or special characters in your filename.
 
 Your PR should be one addition. Only PR requests from approved active participants will be included in the genesis file.
 
