@@ -1,0 +1,55 @@
+{
+  "body": {
+    "messages": [
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+        "description": {
+          "moniker": "RHINO",
+          "identity": "59C635D1CD02FEEC",
+          "website": "https://rhinostake.com",
+          "security_contact": "support@rhinostake.com",
+          "details": "An Active, Independent and Secure Blockchain Validator. Read more about #RHINOgives at https://rhinostake.com/rhino-gives"
+        },
+        "commission": {
+          "rate": "0.050000000000000000",
+          "max_rate": "0.200000000000000000",
+          "max_change_rate": "0.010000000000000000"
+        },
+        "min_self_delegation": "1",
+        "delegator_address": "human15tp3at7hjm73xss9tawpakh9xf55xwpuh8yzeu",
+        "validator_address": "humanvaloper15tp3at7hjm73xss9tawpakh9xf55xwpum57dje",
+        "pubkey": {
+          "@type": "/cosmos.crypto.ed25519.PubKey",
+          "key": "pFW2LwtgWiwoVJ7H0INFXDDyUvhx77KtG0d2QNDRet8="
+        },
+        "value": { "denom": "aheart", "amount": "1000000000000000000" }
+      }
+    ],
+    "memo": "e538c77720999c6d21a2789aebfbffe6e5464d86@104.244.208.243:18456",
+    "timeout_height": "0",
+    "extension_options": [],
+    "non_critical_extension_options": []
+  },
+  "auth_info": {
+    "signer_infos": [
+      {
+        "public_key": {
+          "@type": "/ethermint.crypto.v1.ethsecp256k1.PubKey",
+          "key": "AqO5QlkybrwcYD3rQeLBqnYoWwUMkss2U/V6IBpU912I"
+        },
+        "mode_info": { "single": { "mode": "SIGN_MODE_DIRECT" } },
+        "sequence": "0"
+      }
+    ],
+    "fee": {
+      "amount": [{ "denom": "aheart", "amount": "4000000000000000" }],
+      "gas_limit": "200000",
+      "payer": "",
+      "granter": ""
+    },
+    "tip": null
+  },
+  "signatures": [
+    "XINVS52TlpF6hdDQLkxvvZ7sjugn/ALmtigqCaX5/V1glRQcdTNJQQjidJuMbGNCGaB9DXAusVSPdWFBUrd9ZwE="
+  ]
+}
